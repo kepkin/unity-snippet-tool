@@ -1,0 +1,12 @@
+---
+Snippet 1: |
+  A lot of text here can be written
+  on multiple lines
+
+Email template: |
+  Dear <user>!
+
+  In regard to your <...>
+
+  Thanks.
+
